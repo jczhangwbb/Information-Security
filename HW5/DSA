@@ -1,0 +1,26 @@
+123
+
+p & q is prime
+p = 1024bits
+q = 160 bits
+
+fermat test 
+Square & multiply
+测试是否是prime
+
+h = 2
+
+0<d<q private key
+
+b = a^d mod p
+
+public key 
+(q,p,a,b)
+
+1<k<q
+
+s=160bits
+
+sha1 call lib
+>=160bits
+
